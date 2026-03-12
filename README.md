@@ -84,7 +84,7 @@ Alternativ kann die Streamlit-App auch unter https://james-bond-universe.streaml
 Das Projekt ist auf GitHub als privates Repository verfügbar. Klonen Sie das Repository oder laden Sie es als ZIP-Datei herunter:
 
 ```bash
-git clone https://github.com/selina080701/KEE-Project.git
+git clone https://github.com/selina-steiner/KEE-Project.git
 cd KEE-Project
 ```
 
